@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ 
+.foot_center {
+  justify-content: center; /* 세로 가운데 정렬 */
+  margin-top: 10%;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.foot_color {
+  color: rgb(129, 129, 129);
+  font-size: 12px;
+  font-family: "Jua", Georgia, "Times New Roman",
+    serif /*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+}
+
+.foot_pi {
+  width: 40px;
+  margin: 10px;
+}
+
+.foot_back {
+  /*background: rgb(245, 244, 244);*/
+
+  background: #73b2434d;
+}
+
+.round_img {
+  border-radius: 5px;
+}
