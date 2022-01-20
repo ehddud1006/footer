@@ -13,7 +13,7 @@ import Slider2 from "./slider2.js";
 import Footer from "./footer.js";
 // 경로 표현시 . 은 현재폴더
 // .. 은 상위 폴더를 의미한다
-
+// 코드샌드박스공부중
 // 키보드로 드래그할때, ctrl + home은 해당줄 제일 앞까지
 // ctrl + end는 해당줄 제일 뒤까지
 
